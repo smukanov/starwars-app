@@ -1,0 +1,1 @@
+this is star-dp application. It is simple app, that request to server and receive data from server!
